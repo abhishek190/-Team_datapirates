@@ -4,7 +4,7 @@ include'database.php';
 include'nav_std.php';
 
 $query=mysql_query("SELECT * from hackathon ");
-
+uygugguggiugigggguhiuh
 
 
  ?>
